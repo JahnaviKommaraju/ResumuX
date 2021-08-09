@@ -6,7 +6,7 @@
 
 ## Process Flow:
 <!-- ![](https://github.com/JahnaviKommaraju/ResumuX/blob/main/process_flow.jpeg) -->
-<img src="https://github.com/JahnaviKommaraju/ResumuX/blob/main/process_flow.jpeg" alt="alt text" width="1000" height="550">
+<img src="https://github.com/JahnaviKommaraju/ResumuX/blob/main/process_flow.jpeg" alt="alt text" width="1000" height="500">
 
 
 ## Software Requirements:
