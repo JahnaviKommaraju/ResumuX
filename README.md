@@ -29,19 +29,10 @@
 ## Software Requirements:
    
    FRONTEND:
-     ->React Js Framework
-     ->Bootstrap 5 UI KIT
-     ->Material UI Icons 
+     React Js Framework || Bootstrap 5 UI KIT || Material UI Icons 
    
    BACKEND:
-    ->Python3 
-    ->Flask Framework
-    ->Custom Ner Spacy Model
-    ->Nltk for StopWords
-    ->re for regex
-    ->pdfminer modules  
-    ->docx2txt
-    ->Json For Passing Data
+    Python3 || Flask Framework || Custom Ner Spacy Model || Nltk for StopWords || re for regex || pdfminer modules || docx2txt || Json For Passing Data
 
 
 
