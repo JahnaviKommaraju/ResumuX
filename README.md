@@ -9,13 +9,3 @@
 <img src="https://github.com/JahnaviKommaraju/ResumuX/blob/main/process_flow.jpeg" alt="alt text" width="1000" height="500">
 
 
-## Software Requirements:
-   
-   FRONTEND:
-     React Js Framework || Bootstrap 5 UI KIT || Material UI Icons 
-   
-   BACKEND:
-    Python3 || Flask Framework || Custom Ner Spacy Model || Nltk for StopWords || re for regex || pdfminer modules || docx2txt || Json For Passing Data
-
-
-
